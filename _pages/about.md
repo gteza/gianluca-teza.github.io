@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# Gianluca Teza
-
 I am a theoretical physicist working on nonequilibrium statistical mechanics, stochastic thermodynamics, complex systems, and quantum many-body dynamics.
 
 My research focuses on relaxation phenomena far from equilibrium, including anomalous relaxation, thermodynamic inference, open quantum systems, quantum simulation, and the use of statistical-physics ideas for complex energy landscapes.
