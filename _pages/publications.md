@@ -1,9 +1,9 @@
 ---
-
+layout: single
 title: "Selected publications"
 permalink: /publications/
 author_profile: true
---------------------
+---
 
 An up-to-date list of my publications and preprints can be found on my [Google Scholar profile](https://scholar.google.it/citations?user=LLFZV2cAAAAJ&hl=en).
 
